@@ -1,0 +1,14 @@
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\bin\Debug\WorshipSong.exe.config
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\bin\Debug\WorshipSong.exe
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\bin\Debug\WorshipSong.pdb
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\bin\Debug\WorshipSong.xml
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\MainWindow.baml
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\MainWindow.g.vb
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\Application.g.vb
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong_MarkupCompile.cache
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong.g.resources
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong.Resources.resources
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong.vbproj.GenerateResource.Cache
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong.exe
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong.xml
+d:\pawel\documents\visual studio 2013\Projects\WorshipSong\WorshipSong\obj\Debug\WorshipSong.pdb
